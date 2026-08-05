@@ -1,0 +1,4 @@
+season,Statistic,observed_t0,mean_tB,median_tB,sd_tB,max_tB,p_value,c_hat_mean,c_hat_median
+Winter,Pearson chi-square,5028.11,6621841.96,4060.89,175143886.79,5435544437.72,0.22,0.00,1.24
+Winter,SSE,522.05,471.03,469.49,26.53,609.96,0.03,1.11,1.11
+Winter,Freeman-Tukey,682.80,683.43,680.49,58.18,926.58,0.49,1.00,1.00

@@ -1,0 +1,5 @@
+season,Statistic,observed_t0,mean_tB,median_tB,sd_tB,max_tB,p_value,c_hat_mean,c_hat_median
+Summer,Pearson chi-square,5334.81,4164.23,4086.28,476.49,8873.03,0.03,1.28,1.31
+Summer,SSE,701.97,642.58,643.62,24.01,710.05,0.01,1.09,1.09
+Summer,Freeman-Tukey,875.89,866.48,865.98,37.49,1010.96,0.40,1.01,1.01
+,,,,,,,,,
